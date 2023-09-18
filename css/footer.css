@@ -1,0 +1,188 @@
+footer {
+  background: #223;
+}
+footer .body-footer {
+  padding: 120px 90px;
+  margin: auto;
+  max-width: 1440px;
+}
+footer .body-footer .top-body-footer {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-family: "DMSans-bold";
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 32px;
+}
+footer .body-footer .top-body-footer span {
+  margin-left: 8px;
+}
+footer .body-footer .mid-body-footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+footer .body-footer .mid-body-footer .footer-menu {
+  width: 291px;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-right: 32px;
+  margin-bottom: 8px;
+}
+footer .body-footer .mid-body-footer .footer-menu-contact {
+  margin-right: 0px;
+}
+footer .body-footer .bot-body-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 40px;
+}
+footer .body-footer .bot-body-footer .left-bot-body-footer {
+  color: #88888D;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: -7px;
+}
+footer .body-footer .bot-body-footer .right-bot-body-footer {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+
+@media (max-width: 1440px) {
+  footer {
+    background: #223;
+  }
+  footer .body-footer {
+    padding: 100px 90px;
+    margin: auto;
+    max-width: 1440px;
+  }
+  footer .body-footer .top-body-footer {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: "DMSans-bold";
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 32px;
+  }
+  footer .body-footer .top-body-footer span {
+    margin-left: 8px;
+  }
+  footer .body-footer .mid-body-footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  footer .body-footer .mid-body-footer .footer-menu {
+    width: 187px;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-right: 32px;
+    margin-bottom: 8px;
+  }
+  footer .body-footer .mid-body-footer .footer-menu-contact {
+    margin-right: 0px;
+  }
+  footer .body-footer .bot-body-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+  }
+  footer .body-footer .bot-body-footer .left-bot-body-footer {
+    color: #88888D;
+    font-family: "Inter";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: -7px;
+  }
+  footer .body-footer .bot-body-footer .right-bot-body-footer {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+  }
+}
+@media (max-width: 870px) {
+  footer {
+    background: #223;
+  }
+  footer .body-footer {
+    padding: 45px 38px;
+    margin: auto;
+    max-width: 1440px;
+  }
+  footer .body-footer .top-body-footer {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    font-family: "DMSans-bold";
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 48px;
+  }
+  footer .body-footer .top-body-footer span {
+    margin-left: 8px;
+  }
+  footer .body-footer .mid-body-footer {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  footer .body-footer .mid-body-footer .footer-menu {
+    width: 159px;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-right: 0px;
+    margin-bottom: 8px;
+  }
+  footer .body-footer .mid-body-footer .footer-menu-contact {
+    margin-right: 0px;
+  }
+  footer .body-footer .bot-body-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: start;
+    margin-top: 47px;
+  }
+  footer .body-footer .bot-body-footer .left-bot-body-footer {
+    color: #88888D;
+    font-family: "Inter";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: -7px;
+  }
+  footer .body-footer .bot-body-footer .right-bot-body-footer {
+    width: 176px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 24px;
+  }
+}

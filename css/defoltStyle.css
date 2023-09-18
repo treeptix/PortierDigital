@@ -1,0 +1,192 @@
+@font-face {
+  font-family: "DMSans-Bold";
+  font-display: swap;
+  src: url("../fonts/DMSans-Bold.woff") format("woff"), url("../fonts/DMSans-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSans-BoldItalic";
+  font-display: swap;
+  src: url("../fonts/DMSans-BoldItalic.woff") format("woff"), url("../fonts/DMSans-BoldItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSans-Italic";
+  font-display: swap;
+  src: url("../fonts/DMSans-Italic.woff") format("woff"), url("../fonts/DMSans-Italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSans-MediumItalic";
+  font-display: swap;
+  src: url("../fonts/DMSans-MediumItalic.woff") format("woff"), url("../fonts/DMSans-MediumItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSans-Medium";
+  font-display: swap;
+  src: url("../fonts/DMSans-Medium.woff") format("woff"), url("../fonts/DMSans-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-ExtraBold";
+  font-display: swap;
+  src: url("../fonts/Sora-ExtraBold.woff") format("woff"), url("../fonts/Sora-ExtraBold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-ExtraLight";
+  font-display: swap;
+  src: url("../fonts/Sora-ExtraLight.woff") format("woff"), url("../fonts/Sora-ExtraLight.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-Bold";
+  font-display: swap;
+  src: url("../fonts/Sora-Bold.woff") format("woff"), url("../fonts/Sora-Bold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "DMSans-Regular";
+  font-display: swap;
+  src: url("../fonts/DMSans-Regular.woff") format("woff"), url("../fonts/DMSans-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-Medium";
+  font-display: swap;
+  src: url("../fonts/Sora-Medium.woff") format("woff"), url("../fonts/Sora-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-Regular";
+  font-display: swap;
+  src: url("../fonts/Sora-Regular.woff") format("woff"), url("../fonts/Sora-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-SemiBold";
+  font-display: swap;
+  src: url("../fonts/Sora-SemiBold.woff") format("woff"), url("../fonts/Sora-SemiBold.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-Light";
+  font-display: swap;
+  src: url("../fonts/Sora-Light.woff") format("woff"), url("../fonts/Sora-Light.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Sora-Thin";
+  font-display: swap;
+  src: url("../fonts/Sora-Thin.woff") format("woff"), url("../fonts/Sora-Thin.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*,
+*:before,
+*:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:focus,
+:active {
+  outline: none;
+}
+
+a:focus,
+a:active {
+  outline: none;
+}
+
+nav,
+footer,
+header,
+aside {
+  display: block;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-style: 100%;
+  line-height: 1;
+  font-style: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  background: #12121C;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+input,
+button,
+textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a,
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: inherit;
+  font-weight: 400;
+}

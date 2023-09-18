@@ -1,0 +1,149 @@
+.container-2 {
+  max-width: 1440px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container-2 .board-card {
+  display: flex;
+  width: 1260px;
+  height: 750px;
+  padding: 40px 40px 40px 40px;
+  justify-content: space-between;
+  align-items: end;
+  margin-bottom: 80px;
+}
+.container-2 .board-card .about-container-2 {
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  padding: 20px;
+  border-radius: 8px;
+  background: #223;
+}
+.container-2 .board-card .url-container-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 8px;
+  background: #223;
+}
+.container-2 .board-card .url-container-2-light {
+  background-color: #57EFB4;
+}
+.container-2 .board-card-1 {
+  background: url(../img/main/con2/img1.png);
+}
+.container-2 .board-card-2 {
+  background: url(../img/main/con2/img2.png);
+}
+.container-2 .board-card-3 {
+  background: url(../img/main/con2/img3.png);
+}
+
+@media (max-width: 1440px) {
+  .container-2 {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container-2 .board-card {
+    display: flex;
+    width: 844px;
+    height: 600px;
+    padding: 30px 30px 30px 30px;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 90px;
+  }
+  .container-2 .board-card .about-container-2 {
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 20px;
+    border-radius: 8px;
+    background: #223;
+  }
+  .container-2 .board-card .url-container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    background: #223;
+  }
+  .container-2 .board-card .url-container-2-light {
+    background-color: #57EFB4;
+  }
+  .container-2 .board-card-1 {
+    background: url(../img/main/con2/1024img1.png);
+  }
+  .container-2 .board-card-2 {
+    background: url(../img/main/con2/1024img2.png);
+  }
+  .container-2 .board-card-3 {
+    background: url(../img/main/con2/1024img3.png);
+  }
+}
+@media (max-width: 870px) {
+  .container-2 {
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container-2 .board-card {
+    display: flex;
+    width: 350px;
+    height: 260px;
+    padding: 0px 0px 0px 0px;
+    justify-content: space-between;
+    align-items: end;
+    margin-bottom: 50px;
+  }
+  .container-2 .board-card .about-container-2 {
+    width: 276px;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 10px 15px;
+    border-radius: 0px 8px 0px 0px;
+    background: #223;
+  }
+  .container-2 .board-card .url-container-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 44px;
+    height: 44px;
+    border-radius: 8px;
+    background: #223;
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }
+  .container-2 .board-card .url-container-2-light {
+    background-color: #57EFB4;
+  }
+  .container-2 .board-card-1 {
+    background: url(../img/main/con2/425img1.png);
+  }
+  .container-2 .board-card-2 {
+    background: url(../img/main/con2/425img2.png);
+  }
+  .container-2 .board-card-3 {
+    background: url(../img/main/con2/425img3.png);
+  }
+}

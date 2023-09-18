@@ -1,0 +1,455 @@
+.container-1 {
+  padding: 118px 0px;
+  max-width: 830px;
+  margin: auto;
+}
+.container-1 .title-container-1 {
+  font-family: "Sora";
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 86px;
+  letter-spacing: -1.44px;
+  text-align: center;
+}
+.container-1 .about-container-1 {
+  margin-top: 16px;
+  color: #88888D;
+  text-align: center;
+  font-family: "Sora";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: -0.24px;
+  text-align: center;
+}
+.container-1 .subscribe-form {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+  margin-left: -17px;
+}
+.container-1 .subscribe-form input {
+  width: 567px;
+  height: 53px;
+  padding-left: 19px;
+  background-color: rgba(255, 0, 0, 0);
+  border: 1px solid #223;
+  border-radius: 8px;
+  margin-right: 8px;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.container-1 .subscribe-form button {
+  width: 127px;
+  height: 52px;
+  background-color: #006ADA;
+  font-family: "DMSans-Regular";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  color: white;
+  border-radius: 8px;
+  letter-spacing: 0.6px;
+}
+
+.container-2 {
+  max-width: 1440px;
+  padding: 122px 90px 88px;
+  margin: auto;
+}
+.container-2 .name-info-container-2 {
+  font-family: "Sora";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: -0.96px;
+}
+.container-2 .about-info-container-2 {
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  width: 531px;
+  margin-top: 16px;
+}
+.container-2 .cards-container-2 {
+  margin-top: 48px;
+}
+.container-2 .cards-container-2 .card-con-2 {
+  width: 1260px;
+  height: 316px;
+  display: flex;
+  border-radius: 8px;
+  margin-bottom: 32px;
+}
+.container-2 .cards-container-2 .card-con-2 .img-card-con-2 {
+  width: 560px;
+  height: 316px;
+  background: url(../img/blog/img1.png);
+  border-radius: 8px 0px 0px 8px;
+}
+.container-2 .cards-container-2 .card-con-2 .img-card-con-2-2 {
+  background: url(../img/blog/img2.png);
+}
+.container-2 .cards-container-2 .card-con-2 .img-card-con-2-3 {
+  background: url(../img/blog/img3.png);
+}
+.container-2 .cards-container-2 .card-con-2 .img-card-con-2-4 {
+  background: url(../img/blog/img4.png);
+}
+.container-2 .cards-container-2 .card-con-2 .info-card-con-2 {
+  padding: 40px;
+}
+.container-2 .cards-container-2 .card-con-2 .info-card-con-2 .name-card {
+  font-family: "Sora";
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px;
+  letter-spacing: -0.32px;
+  max-width: 586px;
+}
+.container-2 .cards-container-2 .card-con-2 .info-card-con-2 .about-card {
+  margin-top: 16px;
+  margin-bottom: 24px;
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 556px;
+}
+.container-2 .cards-container-2 .card-con-2 .info-card-con-2 a {
+  color: #006ADA;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+}
+.container-2 .cards-container-2 .card-con-2 .info-card-con-2 a img {
+  margin-left: 11px;
+}
+.container-2 .cards-container-2 .card-con-2-light {
+  background-color: #223;
+}
+
+@media (max-width: 1440px) {
+  .container-1 {
+    padding: 101px 0px;
+    max-width: 830px;
+    margin: auto;
+  }
+  .container-1 .title-container-1 {
+    font-family: "Sora";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    /* 100% */
+    letter-spacing: -1.28px;
+    text-align: center;
+  }
+  .container-1 .about-container-1 {
+    margin-top: 15px;
+    color: #88888D;
+    text-align: center;
+    font-family: "Sora";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+    text-align: center;
+  }
+  .container-1 .subscribe-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+    margin-left: -17px;
+  }
+  .container-1 .subscribe-form input {
+    width: 567px;
+    height: 53px;
+    padding-left: 19px;
+    background-color: rgba(255, 0, 0, 0);
+    border: 1px solid #223;
+    border-radius: 8px;
+    margin-right: 8px;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .container-1 .subscribe-form button {
+    width: 127px;
+    height: 52px;
+    background-color: #006ADA;
+    font-family: "DMSans-Regular";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    border-radius: 8px;
+    letter-spacing: 0.6px;
+  }
+  .container-2 {
+    max-width: 1440px;
+    padding: 99px 90px 68px;
+    margin: auto;
+  }
+  .container-2 .name-info-container-2 {
+    font-family: "Sora";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.96px;
+  }
+  .container-2 .about-info-container-2 {
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 531px;
+    margin-top: 16px;
+  }
+  .container-2 .cards-container-2 {
+    margin-top: 48px;
+  }
+  .container-2 .cards-container-2 .card-con-2 {
+    margin: auto;
+    width: 844px;
+    height: 316px;
+    display: flex;
+    border-radius: 8px;
+    margin-bottom: 32px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2 {
+    max-width: 420px;
+    height: 316px;
+    background: url(../img/blog/img10241.png);
+    border-radius: 8px 0px 0px 8px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-2 {
+    background: url(../img/blog/img10242.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-3 {
+    background: url(../img/blog/img10243.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-4 {
+    background: url(../img/blog/img10244.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 {
+    padding: 30px 30px 30px 40px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 .name-card {
+    font-family: "Sora";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: -0.32px;
+    max-width: 340px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 .about-card {
+    margin-top: 16px;
+    margin-bottom: 24px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 340px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 a {
+    color: #006ADA;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 a img {
+    margin-left: 11px;
+  }
+  .container-2 .cards-container-2 .card-con-2-light {
+    background-color: #223;
+  }
+}
+@media (max-width: 870px) {
+  .container-1 {
+    padding: 96px 38px 45px;
+    max-width: 830px;
+    margin: auto;
+  }
+  .container-1 .title-container-1 {
+    font-family: "Sora";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    /* 120% */
+    letter-spacing: -0.4px;
+    text-align: center;
+  }
+  .container-1 .about-container-1 {
+    margin-top: 15px;
+    color: #88888D;
+    text-align: center;
+    font-family: "Sora";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+    text-align: center;
+  }
+  .container-1 .subscribe-form {
+    display: flex;
+    justify-content: start;
+    margin-top: 48px;
+    margin-left: 0px;
+    flex-direction: column;
+  }
+  .container-1 .subscribe-form input {
+    width: 100%;
+    height: 53px;
+    padding-left: 19px;
+    background-color: rgba(255, 0, 0, 0);
+    border: 1px solid #223;
+    border-radius: 8px;
+    margin-right: 0px;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  .container-1 .subscribe-form button {
+    width: 100%;
+    height: 52px;
+    background-color: #006ADA;
+    font-family: "DMSans-Regular";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: white;
+    border-radius: 8px;
+    letter-spacing: 0.6px;
+    margin-top: 8px;
+  }
+  .container-2 {
+    max-width: 1440px;
+    padding: 45px 0px 68px;
+    margin: auto;
+  }
+  .container-2 .name-info-container-2 {
+    font-family: "Sora";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    /* 125% */
+    letter-spacing: -0.32px;
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+  .container-2 .about-info-container-2 {
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 100%;
+    margin-top: 16px;
+    padding-left: 38px;
+    padding-right: 38px;
+  }
+  .container-2 .cards-container-2 {
+    margin-top: 48px;
+  }
+  .container-2 .cards-container-2 .card-con-2 {
+    margin: auto;
+    width: 350px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    margin-bottom: 32px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2 {
+    width: 350px;
+    height: 316px;
+    background: url(../img/blog/img4251.png);
+    border-radius: 8px 8px 0px 0px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-2 {
+    background: url(../img/blog/img4252.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-3 {
+    background: url(../img/blog/img4253.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .img-card-con-2-4 {
+    background: url(../img/blog/img4254.png);
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 {
+    padding: 20px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 .name-card {
+    font-family: "Sora";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    max-width: 340px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 .about-card {
+    margin-top: 16px;
+    margin-bottom: 24px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    max-width: 340px;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 a {
+    color: #006ADA;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+  }
+  .container-2 .cards-container-2 .card-con-2 .info-card-con-2 a img {
+    margin-left: 11px;
+  }
+  .container-2 .cards-container-2 .card-con-2-light {
+    background-color: #223;
+  }
+}

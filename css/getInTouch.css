@@ -1,0 +1,130 @@
+.getInTouch {
+  margin: auto;
+  display: flex;
+  max-width: 1440px;
+  padding: 120px 90px;
+  justify-content: space-between;
+  align-items: center;
+}
+.getInTouch .leftSide-getInTouch {
+  max-width: 530px;
+}
+.getInTouch .leftSide-getInTouch .about-getInTouch {
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.getInTouch .leftSide-getInTouch .btn-getInTouch {
+  padding: 14px 24px;
+  border-radius: 8px;
+  background: #006ADA;
+  font-family: "DMSans-Bold";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  width: 145px;
+}
+.getInTouch .rightSide-getInTouch {
+  max-width: 508px;
+  font-family: "Sora";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  letter-spacing: -0.96px;
+}
+
+@media (max-width: 1440px) {
+  .getInTouch {
+    margin: auto;
+    display: flex;
+    max-width: 1440px;
+    padding: 100px 90px;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .getInTouch .leftSide-getInTouch {
+    max-width: 271px;
+  }
+  .getInTouch .leftSide-getInTouch .about-getInTouch {
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  .getInTouch .leftSide-getInTouch .btn-getInTouch {
+    padding: 14px 24px;
+    border-radius: 8px;
+    background: #006ADA;
+    font-family: "DMSans-Bold";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    width: 145px;
+  }
+  .getInTouch .rightSide-getInTouch {
+    max-width: 508px;
+    font-family: "Sora";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    letter-spacing: -0.96px;
+  }
+}
+@media (max-width: 870px) {
+  .getInTouch {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    max-width: 1440px;
+    padding: 45px 38px;
+    justify-content: left;
+    align-items: start;
+  }
+  .getInTouch .leftSide-getInTouch {
+    max-width: 371px;
+  }
+  .getInTouch .leftSide-getInTouch .about-getInTouch {
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 24px;
+  }
+  .getInTouch .leftSide-getInTouch .btn-getInTouch {
+    padding: 14px 24px;
+    border-radius: 8px;
+    background: #006ADA;
+    font-family: "DMSans-Bold";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    width: 145px;
+  }
+  .getInTouch .rightSide-getInTouch {
+    margin-top: 60px;
+    max-width: 508px;
+    font-family: "Sora";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; /* 125% */
+    letter-spacing: -0.32px;
+  }
+}

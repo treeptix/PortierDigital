@@ -1,0 +1,194 @@
+main {
+  max-width: 884px;
+  margin: auto;
+  margin-top: 200px;
+}
+main .top-header-container-1 {
+  display: flex;
+  align-items: center;
+}
+main .top-header-container-1 span {
+  margin-left: 12px;
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+main .mid-header-container-1 {
+  margin-top: 24px;
+  font-family: "Sora";
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 86px;
+  letter-spacing: -1.44px;
+}
+main .bot-header-container-1 {
+  margin-top: 16px;
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+main .text-con-1 {
+  margin-top: 24px;
+  color: #88888D;
+  font-family: "Sora";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: -0.24px;
+}
+main .go-back {
+  font-family: "DMSans-Bold";
+  margin-top: 48px;
+  margin-bottom: 100px;
+  background-color: #006ADA;
+  width: 112px;
+  height: 52px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  color: #fff;
+  border-radius: 8px;
+}
+
+@media (max-width: 1440px) {
+  main {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 100px;
+    padding: 0px 90px;
+  }
+  main .top-header-container-1 {
+    display: flex;
+    align-items: center;
+  }
+  main .top-header-container-1 span {
+    margin-left: 12px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  main .mid-header-container-1 {
+    margin-top: 24px;
+    font-family: "Sora";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    /* 100% */
+    letter-spacing: -1.28px;
+  }
+  main .bot-header-container-1 {
+    margin-top: 16px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  main .body-container-1 {
+    margin-top: 48px;
+  }
+  main .text-con-1 {
+    margin-top: 24px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+  main .go-back {
+    font-family: "DMSans-Bold";
+    margin-top: 48px;
+    margin-bottom: 100px;
+    background-color: #006ADA;
+    width: 112px;
+    height: 52px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    border-radius: 8px;
+  }
+}
+@media (max-width: 870px) {
+  main {
+    max-width: 100%;
+    margin: auto;
+    margin-top: 90px;
+    padding: 0px 38px;
+  }
+  main .top-header-container-1 {
+    display: flex;
+    align-items: center;
+  }
+  main .top-header-container-1 span {
+    margin-left: 12px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  main .mid-header-container-1 {
+    margin-top: 24px;
+    font-family: "Sora";
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px; /* 120% */
+    letter-spacing: -0.4px;
+  }
+  main .bot-header-container-1 {
+    margin-top: 16px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+  }
+  main .body-container-1 {
+    margin-top: 48px;
+  }
+  main .text-con-1 {
+    margin-top: 24px;
+    color: #88888D;
+    font-family: "Sora";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.24px;
+  }
+  main .go-back {
+    font-family: "DMSans-Bold";
+    margin-top: 59px;
+    margin-bottom: 55px;
+    background-color: #006ADA;
+    width: 112px;
+    height: 52px;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    border-radius: 8px;
+  }
+}
